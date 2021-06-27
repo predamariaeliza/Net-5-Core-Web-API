@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fNS9gW5hfcfw6Gjuu0XSLyTIsf6qPEjpKs3XArER8FPVm/1ErXDkNzMj6rEw/16RvyhudN/F6krDbndWAu2R9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\preda\\OneDrive\\Desktop\\Net-5-Web-API\\Net-5-Web-API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\preda\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\preda\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\preda\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\preda\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\preda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\preda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
